@@ -1,6 +1,6 @@
 # gradle-multi-project-sample
 
-sample repository to use gradle multi-projects.
+sample repository to use gradle multi-projects.d
 
 ## Overview
 e
