@@ -3,7 +3,7 @@
 sample repository to use gradle multi-projects.
 
 ## Overview
-
+e
 There are 3 sub pjojects.ff
 
 * common: utility library
